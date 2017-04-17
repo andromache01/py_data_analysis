@@ -1,0 +1,5 @@
+#Class homework assignment
+#By : Tara Franey and Marzia Tamanna
+# Data must be downloaded from the command line using the following code
+#pip install git+https://git@github.com/weecology/retriever.git
+#retriever install csv mapped-plant-quads-co
