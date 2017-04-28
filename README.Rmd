@@ -1,12 +1,11 @@
 #Class homework assignment
 #By : Tara Franey and Marzia Tamanna
-#Purpose is to merge and subset data in Python and graph different variables.
-# Data must be downloaded from the command line using the following code
+
+Purpose is to merge and subset data in Python and graph different variables.
+Data must be downloaded from the command line using the following code
 #pip install git+https://git@github.com/weecology/retriever.git
 #retriever install csv mapped-plant-quads-co
-$
-$reference: https://figshare.com/articles/Data_Paper_Data_Paper/3556779
 
-#citation: Cover, density, and demographics of shortgrass steppe plants mapped 1997-2010 in permanent grazed and ungrazed quadrats. Chengjin Chu, John Norman, Robert Flynn, Nicole Kaplan, William K. Lauenroth, and Peter B. Adler. Ecology 2013 94:6, 1435-1435.
+reference: https://figshare.com/articles/Data_Paper_Data_Paper/3556779
 
-#description: This data set maps and analyzes demographic rates of many common plant species in the shortgrass steppe of North America under grazed and ungrazed conditions.
+citation: Cover, density, and demographics of shortgrass steppe plants mapped 1997-2010 in permanent grazed and ungrazed quadrats. Chengjin Chu, John Norman, Robert Flynn, Nicole Kaplan, William K. Lauenroth, and Peter B. Adler. Ecology 2013 94:6, 1435-1435.#description: This data set maps and analyzes demographic rates of many common plant species in the shortgrass steppe of North America under grazed and ungrazed conditions.
